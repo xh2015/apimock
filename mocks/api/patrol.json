@@ -1,0 +1,894 @@
+{
+  "code": 200,
+  "status": "success",
+  "message": "",
+  "data": {
+    "requestTime":19951995,
+    "page": {
+      "pageNumber": 0,
+      "totalCount": 4,
+      "pageSize": 20,
+      "totalPage": 1
+    },
+    "data": [
+      {
+        "patrolTaskId": 1022911,
+        "patrol": {
+          "patrolId": 1020000,
+          "name": "巡检001"
+        },
+        "startDateTime": 1496980800000,
+        "endDateTime": 1497009600000,
+        "status": 1,
+        "type": 1,
+        "spots": [
+          {
+            "spot": {
+              "spotId": 1019543,
+              "name": "移动测试点位001",
+              "code": "7421eb3ef76453b3",
+              "place": "移动测试区域001"
+            },
+            "equipments": [
+              {
+                "eqId": 1019983,
+                "name": "Andrion",
+                "code": "001",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022915,
+                    "status": 0,
+                    "content": "移动测试内容002",
+                    "contentType": 1,
+                    "resultType": 1,
+                    "selectEnum": "",
+                    "selectRightValue": "1",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022912,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "eqId": 0,
+                "name": "",
+                "code": "",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022914,
+                    "status": 0,
+                    "content": "移动测试内容001",
+                    "contentType": 2,
+                    "resultType": 2,
+                    "selectEnum": "是,否,",
+                    "selectRightValue": "是",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022913,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "patrolTaskId": 2000,
+        "patrol": {
+          "patrolId": 1020000,
+          "name": "巡检001"
+        },
+        "startDateTime": 1496980800000,
+        "endDateTime": 1497009600000,
+        "status": 1,
+        "type": 1,
+        "spots": [
+          {
+            "spot": {
+              "spotId": 1019543,
+              "name": "移动测试点位001",
+              "code": "7421eb3ef76453b3",
+              "place": "移动测试区域001"
+            },
+            "equipments": [
+              {
+                "eqId": 1019983,
+                "name": "Andrion",
+                "code": "001",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022915,
+                    "status": 0,
+                    "content": "移动测试内容002",
+                    "contentType": 1,
+                    "resultType": 1,
+                    "selectEnum": "",
+                    "selectRightValue": "1",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022912,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "eqId": 0,
+                "name": "",
+                "code": "",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022914,
+                    "status": 0,
+                    "content": "移动测试内容001",
+                    "contentType": 2,
+                    "resultType": 2,
+                    "selectEnum": "是,否,",
+                    "selectRightValue": "是",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022913,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "patrolTaskId": 2001,
+        "patrol": {
+          "patrolId": 1020000,
+          "name": "巡检001"
+        },
+        "startDateTime": 1496980800000,
+        "endDateTime": 1497009600000,
+        "status": 1,
+        "type": 1,
+        "spots": [
+          {
+            "spot": {
+              "spotId": 1019543,
+              "name": "移动测试点位001",
+              "code": "7421eb3ef76453b3",
+              "place": "移动测试区域001"
+            },
+            "equipments": [
+              {
+                "eqId": 1019983,
+                "name": "Andrion",
+                "code": "001",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022915,
+                    "status": 0,
+                    "content": "移动测试内容002",
+                    "contentType": 1,
+                    "resultType": 1,
+                    "selectEnum": "",
+                    "selectRightValue": "1",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022912,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "eqId": 0,
+                "name": "",
+                "code": "",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022914,
+                    "status": 0,
+                    "content": "移动测试内容001",
+                    "contentType": 2,
+                    "resultType": 2,
+                    "selectEnum": "是,否,",
+                    "selectRightValue": "是",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022913,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "patrolTaskId": 2003,
+        "patrol": {
+          "patrolId": 1020000,
+          "name": "巡检001"
+        },
+        "startDateTime": 1496980800000,
+        "endDateTime": 1497009600000,
+        "status": 1,
+        "type": 1,
+        "spots": [
+          {
+            "spot": {
+              "spotId": 1019543,
+              "name": "移动测试点位001",
+              "code": "7421eb3ef76453b3",
+              "place": "移动测试区域001"
+            },
+            "equipments": [
+              {
+                "eqId": 1019983,
+                "name": "Andrion",
+                "code": "001",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022915,
+                    "status": 0,
+                    "content": "移动测试内容002",
+                    "contentType": 1,
+                    "resultType": 1,
+                    "selectEnum": "",
+                    "selectRightValue": "1",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022912,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "eqId": 0,
+                "name": "",
+                "code": "",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022914,
+                    "status": 0,
+                    "content": "移动测试内容001",
+                    "contentType": 2,
+                    "resultType": 2,
+                    "selectEnum": "是,否,",
+                    "selectRightValue": "是",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022913,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "patrolTaskId": 2004,
+        "patrol": {
+          "patrolId": 1020000,
+          "name": "巡检001"
+        },
+        "startDateTime": 1496980800000,
+        "endDateTime": 1497009600000,
+        "status": 1,
+        "type": 1,
+        "spots": [
+          {
+            "spot": {
+              "spotId": 1019543,
+              "name": "移动测试点位001",
+              "code": "7421eb3ef76453b3",
+              "place": "移动测试区域001"
+            },
+            "equipments": [
+              {
+                "eqId": 1019983,
+                "name": "Andrion",
+                "code": "001",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022915,
+                    "status": 0,
+                    "content": "移动测试内容002",
+                    "contentType": 1,
+                    "resultType": 1,
+                    "selectEnum": "",
+                    "selectRightValue": "1",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022912,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "eqId": 0,
+                "name": "",
+                "code": "",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022914,
+                    "status": 0,
+                    "content": "移动测试内容001",
+                    "contentType": 2,
+                    "resultType": 2,
+                    "selectEnum": "是,否,",
+                    "selectRightValue": "是",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022913,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "patrolTaskId": 2005,
+        "patrol": {
+          "patrolId": 1020000,
+          "name": "巡检001"
+        },
+        "startDateTime": 1496980800000,
+        "endDateTime": 1497009600000,
+        "status": 1,
+        "type": 1,
+        "spots": [
+          {
+            "spot": {
+              "spotId": 1019543,
+              "name": "移动测试点位001",
+              "code": "7421eb3ef76453b3",
+              "place": "移动测试区域001"
+            },
+            "equipments": [
+              {
+                "eqId": 1019983,
+                "name": "Andrion",
+                "code": "001",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022915,
+                    "status": 0,
+                    "content": "移动测试内容002",
+                    "contentType": 1,
+                    "resultType": 1,
+                    "selectEnum": "",
+                    "selectRightValue": "1",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022912,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "eqId": 0,
+                "name": "",
+                "code": "",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022914,
+                    "status": 0,
+                    "content": "移动测试内容001",
+                    "contentType": 2,
+                    "resultType": 2,
+                    "selectEnum": "是,否,",
+                    "selectRightValue": "是",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022913,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "patrolTaskId": 2006,
+        "patrol": {
+          "patrolId": 1020000,
+          "name": "巡检001"
+        },
+        "startDateTime": 1496980800000,
+        "endDateTime": 1497009600000,
+        "status": 1,
+        "type": 1,
+        "spots": [
+          {
+            "spot": {
+              "spotId": 1019543,
+              "name": "移动测试点位001",
+              "code": "7421eb3ef76453b3",
+              "place": "移动测试区域001"
+            },
+            "equipments": [
+              {
+                "eqId": 1019983,
+                "name": "Andrion",
+                "code": "001",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022915,
+                    "status": 0,
+                    "content": "移动测试内容002",
+                    "contentType": 1,
+                    "resultType": 1,
+                    "selectEnum": "",
+                    "selectRightValue": "1",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022912,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "eqId": 0,
+                "name": "",
+                "code": "",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022914,
+                    "status": 0,
+                    "content": "移动测试内容001",
+                    "contentType": 2,
+                    "resultType": 2,
+                    "selectEnum": "是,否,",
+                    "selectRightValue": "是",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022913,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "patrolTaskId": 1023065,
+        "patrol": {
+          "patrolId": 1020089,
+          "name": "android测试001"
+        },
+        "startDateTime": 1496984400000,
+        "endDateTime": 1497002400000,
+        "status": 1,
+        "type": 1,
+        "spots": [
+          {
+            "spot": {
+              "spotId": 1020068,
+              "name": "android测试点位",
+              "code": "a689e6058e365479",
+              "place": "无锡"
+            },
+            "equipments": [
+              {
+                "eqId": 1020072,
+                "name": "空调",
+                "code": "8001",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1023073,
+                    "status": 0,
+                    "content": "设备水平高度",
+                    "contentType": 1,
+                    "resultType": 1,
+                    "selectEnum": "",
+                    "selectRightValue": "1",
+                    "inputUpper": 20,
+                    "inputFloor": 10,
+                    "patrolTaskItem": {
+                      "contentResultId": 1023066,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  },
+                  {
+                    "contentId": 1023074,
+                    "status": 0,
+                    "content": "空气温度",
+                    "contentType": 1,
+                    "resultType": 1,
+                    "selectEnum": "",
+                    "selectRightValue": "1",
+                    "inputUpper": 26,
+                    "inputFloor": 24,
+                    "patrolTaskItem": {
+                      "contentResultId": 1023066,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  },
+                  {
+                    "contentId": 1023075,
+                    "status": 0,
+                    "content": "空气湿度",
+                    "contentType": 1,
+                    "resultType": 1,
+                    "selectEnum": "",
+                    "selectRightValue": "1",
+                    "inputUpper": 80,
+                    "inputFloor": 40,
+                    "patrolTaskItem": {
+                      "contentResultId": 1023066,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "eqId": 1019983,
+                "name": "Andrion",
+                "code": "001",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1023076,
+                    "status": 0,
+                    "content": "移动测试内容002",
+                    "contentType": 1,
+                    "resultType": 1,
+                    "selectEnum": "",
+                    "selectRightValue": "1",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1023067,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "eqId": 0,
+                "name": "",
+                "code": "",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1023069,
+                    "status": 0,
+                    "content": "地面是否干净",
+                    "contentType": 2,
+                    "resultType": 2,
+                    "selectEnum": "干净,不干净,",
+                    "selectRightValue": "干净",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1023068,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  },
+                  {
+                    "contentId": 1023070,
+                    "status": 0,
+                    "content": "空气是否浑浊",
+                    "contentType": 2,
+                    "resultType": 2,
+                    "selectEnum": "浑浊,不浑浊,",
+                    "selectRightValue": "不浑浊",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1023068,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  },
+                  {
+                    "contentId": 1023071,
+                    "status": 0,
+                    "content": "地面是否湿滑",
+                    "contentType": 2,
+                    "resultType": 2,
+                    "selectEnum": "湿滑,干燥,",
+                    "selectRightValue": "干燥",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1023068,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  },
+                  {
+                    "contentId": 1023072,
+                    "status": 0,
+                    "content": "培养体湿度是否达到",
+                    "contentType": 2,
+                    "resultType": 2,
+                    "selectEnum": "未达到,达到,",
+                    "selectRightValue": "达到",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1023068,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "patrolTaskId": 1022855,
+        "patrol": {
+          "patrolId": 1020711,
+          "name": "android测试002"
+        },
+        "startDateTime": 1496977200000,
+        "endDateTime": 1497009600000,
+        "status": 1,
+        "type": 1,
+        "spots": [
+          {
+            "spot": {
+              "spotId": 1019543,
+              "name": "移动测试点位001",
+              "code": "7421eb3ef76453b3",
+              "place": "移动测试区域001"
+            },
+            "equipments": [
+              {
+                "eqId": 1019983,
+                "name": "Andrion",
+                "code": "001",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022859,
+                    "status": 0,
+                    "content": "移动测试内容002",
+                    "contentType": 1,
+                    "resultType": 1,
+                    "selectEnum": "",
+                    "selectRightValue": "1",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022856,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "eqId": 0,
+                "name": "",
+                "code": "",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022858,
+                    "status": 0,
+                    "content": "移动测试内容001",
+                    "contentType": 2,
+                    "resultType": 2,
+                    "selectEnum": "是,否,",
+                    "selectRightValue": "是",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022857,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "patrolTaskId": 1022906,
+        "patrol": {
+          "patrolId": 1020732,
+          "name": "android测试003"
+        },
+        "startDateTime": 1496978700000,
+        "endDateTime": 1497013200000,
+        "status": 1,
+        "type": 1,
+        "spots": [
+          {
+            "spot": {
+              "spotId": 1019543,
+              "name": "移动测试点位001",
+              "code": "7421eb3ef76453b3",
+              "place": "移动测试区域001"
+            },
+            "equipments": [
+              {
+                "eqId": 1019983,
+                "name": "Andrion",
+                "code": "001",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022910,
+                    "status": 0,
+                    "content": "移动测试内容002",
+                    "contentType": 1,
+                    "resultType": 1,
+                    "selectEnum": "",
+                    "selectRightValue": "1",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022907,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "eqId": 0,
+                "name": "",
+                "code": "",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022909,
+                    "status": 0,
+                    "content": "移动测试内容001",
+                    "contentType": 2,
+                    "resultType": 2,
+                    "selectEnum": "是,否,",
+                    "selectRightValue": "是",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022908,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "spot": {
+              "spotId": 1088888,
+              "name": "自定义点位",
+              "code": "7421eb3ef76453b3",
+              "place": "移动测试区域001"
+            },
+            "equipments": [
+              {
+                "eqId": 1019983,
+                "name": "Andrion",
+                "code": "001",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022910,
+                    "status": 0,
+                    "content": "移动测试内容002",
+                    "contentType": 1,
+                    "resultType": 1,
+                    "selectEnum": "",
+                    "selectRightValue": "1",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022907,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "eqId": 0,
+                "name": "",
+                "code": "",
+                "patrolTaskItemDetails": [
+                  {
+                    "contentId": 1022909,
+                    "status": 0,
+                    "content": "移动测试内容001",
+                    "contentType": 2,
+                    "resultType": 2,
+                    "selectEnum": "是,否,",
+                    "selectRightValue": "是",
+                    "inputUpper": 0,
+                    "inputFloor": 0,
+                    "patrolTaskItem": {
+                      "contentResultId": 1022908,
+                      "startDateTime": 0,
+                      "endDateTime": 0,
+                      "status": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "fmcode": 0
+}

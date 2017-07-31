@@ -1,0 +1,14 @@
+{
+    "fmcode":0,
+    "message":"",
+    "data":{
+        "newestDate":20170621,
+        "departmentNew":true,
+        "priorityTypeNew":true,
+        "serviceTypeNew":true,
+        "deviceNew":true,
+        "deviceTypeNew":true,
+        "workFlowNew":true,
+        "locationNew":true
+    }
+}
